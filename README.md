@@ -124,17 +124,7 @@ Follow the instructions to install dependencies, configure environment variables
 
 ---
 
-## About This Project
 
-This project is designed exclusively for the **Udemy course: [DevOps Zero to Hero: Docker, K8s, Cloud, CI/CD & 4 Projects]([https://www.udemy.com](https://www.udemy.com/user/pravin-mishra-30/))**.
 
-Students will gain hands-on experience in:
-- Git, Docker, Kubernetes
-- Terraform, Ansible
-- CI/CD Pipelines
-- AWS & Azure Cloud
-- Full-stack project deployment from scratch
-
-This Book Review App serves as one of the **4 real-world DevOps projects** taught in the course.
 
 #### Testing CICD Pipeline
